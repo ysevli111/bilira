@@ -1,0 +1,3 @@
+class NoMarketException(Exception):
+      pass
+
